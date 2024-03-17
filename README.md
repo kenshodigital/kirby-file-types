@@ -16,9 +16,7 @@ composer require kenshodigital/kirby-file-types ^1.0
 
 ## Usage
 
-Just add your file types directly to your `config.php`. 
-
-This example adds support for [WebVTT][6] files to you project:
+Just add your file types directly to your `config.php`.
 
 ```php
 <?php declare(strict_types=1); 
@@ -33,6 +31,8 @@ return [
     ...
 ];
 ```
+
+This example adds support for [WebVTT][6] files to a project.
 
 [1]: https://getkirby.com/docs/guide/files#supported-file-types
 [2]: https://getkirby.com/docs/guide/configuration
