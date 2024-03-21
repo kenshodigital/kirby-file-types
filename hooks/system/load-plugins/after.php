@@ -4,7 +4,7 @@ return function (): void
 {
     $this->extend(
         [
-            'fileTypes' => kirby()->option('fileTypes', []),
+            'fileTypes' => $this->option('fileTypes', []),
         ]
     );
 };
