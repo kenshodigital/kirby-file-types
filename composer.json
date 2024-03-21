@@ -2,7 +2,7 @@
     "name":        "kenshodigital/kirby-file-types",
     "description": "Adds additional file types from configuration to Kirby projects.",
     "type":        "kirby-plugin",
-    "version":     "1.0.0",
+    "version":     "1.0.1",
     "license":     "MIT",
     "support":
     {
